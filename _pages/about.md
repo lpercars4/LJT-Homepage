@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: "About"
-permalink: /
+permalink: /about/
 ---
 
 I am **Junteng Liu**, a first-year PhD candidate at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), where I am fortunate to be advised by [Professor Junxian He](https://jxhe.github.io/) in the [HKUST NLP Group](https://hkust-nlp.github.io/). My research focuses on **Natural Language Processing** and **Machine Learning**.
@@ -34,7 +34,7 @@ My research interests include:
 
 ## Publications
 
-See the [Publications](/publications/) page for the full list. Selected recent works:
+The full list of publications is also available on the [Publications](/publications/) page.
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — *First author*
 - **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) — *First author*
